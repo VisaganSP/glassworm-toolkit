@@ -1,0 +1,24 @@
+# Test output
+glassworm_test_samples/
+glassworm_education_output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Scan results (may contain sensitive paths)
+scan-results.json
